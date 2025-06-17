@@ -1,4 +1,4 @@
-# chile-postprotest-attitude-change
+# Did the 2019 estallido social lead to divergent shifts in institutional trust, democratic support, and economic outlook across socioeconomic, geographic, age and ideological groups in Chile?
 ## Introduction
 Chile’s rapid economic growth from the 1980s through the early 2000s is often referred to as one of Latin America’s economic miracles. This economic success is largely attributed to its embrace of neoliberalism, with extensive trade liberalization, privatization, and minimal government intervention. However, Chile remains a highly unequal society, a stark reality revealed by the nation-wide social protests in 2019 after the government decided to increase the per metro fare by four percent (Edwards, 2023). Although this hike is equivalent to only thirty pesos, or approximately four U.S. cents, it triggered the largest scale protest in the country’s democratic history. This event raises a critical question: how did a booming, high-income nation celebrated as a successful economic model face such widespread intense public discontent over a relatively minor policy change?
 
