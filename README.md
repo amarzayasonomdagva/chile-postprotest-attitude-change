@@ -18,7 +18,6 @@ Dissatisfaction with democracy in the post-estallido period was especially acute
 The gains in institutional trust post-2019 were specific to governmental institutions and concentrated among youth and the economically marginalized.
 
 ## Files
-## Files
 
 - [Final Research Paper (DOCX)](Econ%20Final%20Research%20Paper.docx)
 - [Stata Do File](final_latin.do)
